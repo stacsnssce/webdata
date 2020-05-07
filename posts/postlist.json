@@ -2,13 +2,13 @@
   "Posts": [
     {
       "id": "A",
-      "title": "A",
+      "heading": "A",
       "author": "Allen K Abraham",
       "date": "08-05-2020"
     },
     {
       "id": "B",
-      "title": "B",
+      "heading": "B",
       "author": "Allen K Abraham",
       "date": "08-05-2020"
     }
