@@ -1,8 +1,14 @@
 {
-  "data": {
-    "Posts": [
-      "A",
-      "B"
-    ]
-  }
+  "Posts": [
+    {
+      "id": "A",
+      "author": "Allen K Abraham",
+      "date": "08-05-2020"
+    },
+    {
+      "id": "B",
+      "author": "Allen K Abraham",
+      "date": "08-05-2020"
+    }
+  ]
 }
