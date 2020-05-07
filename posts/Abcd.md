@@ -1,5 +1,1 @@
----
-author: "STACS"
----
-
 # ABCD
