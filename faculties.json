@@ -1,16 +1,16 @@
-[
-  {
-    "name": "Dr. Sindhu S",
-    "designation": "Head of the Department",
-    "url": "",
-    "profile": ""
-  }
-],
-[
-  {
-    "name": "Prof. Syam Sankar",
-    "designation": "Assistant Professor",
-    "url": "",
-    "profile": ""
-  }
-]
+{
+  "faculties": [
+    {
+      "name": "Dr. Sindhu S",
+      "designation": "Head of the Department",
+      "url": "",
+      "profile": ""
+    },
+    {
+      "name": "Prof. Syam Sankar",
+      "designation": "Assistant Professor",
+      "url": "",
+      "profile": ""
+    }
+  ]
+}
