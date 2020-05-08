@@ -1,36 +1,56 @@
 [
   {
-    "name": "Milind Soorya",
-    "designation": "Chairman",
+    "name": "Prof. Syam Sankar",
+    "designation": "Faculty Advisor",
+    "url": "",
     "profiles": {
                   "instagram": ""
                   "twitter": "",
                   "linkedin": "",
-                  "github": ""
+                  "github": "",
+                  "website": ""
+                }
+  }
+],
+[
+  {
+    "name": "Milind Soorya",
+    "designation": "Chairman",
+    "url": "",
+    "profiles": {
+                  "instagram": ""
+                  "twitter": "",
+                  "linkedin": "",
+                  "github": "",
+                  "website": ""
                 }
   }
 ],
 [
   {
     "name": "Meekha E Saji",
+    "url": "",
     "designation": "NewsletterEditor",
     "profiles": {
                   "instagram": ""
                   "twitter": "",
                   "linkedin": "",
-                  "github": ""
+                  "github": "",
+                  "website": ""
                 }
   }
 ],
 [
   {
     "name": "Allen K Abraham",
+    "url": "",
     "designation": "Website Maintainer",
     "profiles": {
                   "instagram": ""
                   "twitter": "",
                   "linkedin": "",
-                  "github": ""
+                  "github": "",
+                  "website": ""
                 }
   }
 ]
