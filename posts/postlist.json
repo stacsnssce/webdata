@@ -4,31 +4,36 @@
       "id": "A",
       "heading": "Lorem ipsum dolor",
       "author": "Allen K Abraham",
-      "date": "08-05-2020"
+      "date": "08-05-2020",
+      "image": "http://via.placeholder.com/150"
     },
     {
       "id": "B",
       "heading": "B",
       "author": "Allen K Abraham",
-      "date": "08-05-2020"
+      "date": "08-05-2020",
+      "image": "http://via.placeholder.com/150"
     },
     {
       "id": "C",
       "heading": "C",
       "author": "Allen K Abraham",
-      "date": "08-05-2020"
+      "date": "08-05-2020",
+      "image": "http://via.placeholder.com/150"
     },
     {
       "id": "D",
       "heading": "D",
       "author": "Allen K Abraham",
-      "date": "08-05-2020"
+      "date": "08-05-2020",
+      "image": "http://via.placeholder.com/150"
     },
     {
       "id": "E",
       "heading": "E",
       "author": "Allen K Abraham",
-      "date": "08-05-2020"
+      "date": "08-05-2020",
+      "image": "http://via.placeholder.com/150"
     }
   ]
 }
