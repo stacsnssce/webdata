@@ -1,5 +1,5 @@
 ---
-date: "01-01-2020",
+date: "01-01-2020"
 title: "The Event 1"
 cover: "https://via.placeholder.com/800x500.png"
 ---
