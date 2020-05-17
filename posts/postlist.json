@@ -2,36 +2,47 @@
   "Posts": [
     {
       "id": "A",
-      "heading": "Lorem ipsum dolor",
-      "author": "Allen K Abraham",
+      "title": "Lorem ipsum dolor",
+      "desc": "Here we will be having a one sentence description.",
+      "name": "Allen K Abraham",
+      "author": "allenabraham777",
       "date": "08-05-2020",
-      "image": "http://via.placeholder.com/150"
+      "image": "http://via.placeholder.com/150",
+      ""
     },
     {
       "id": "B",
-      "heading": "B",
-      "author": "Allen K Abraham",
+      "title": "B",
+      "desc": "Here we will be having a one sentence description.",
+      "name": "Allen K Abraham",
+      "author": "allenabraham777",
       "date": "08-05-2020",
       "image": "http://via.placeholder.com/150"
     },
     {
       "id": "C",
-      "heading": "C",
-      "author": "Allen K Abraham",
+      "title": "C",
+      "desc": "Here we will be having a one sentence description.",
+      "name": "Allen K Abraham",
+      "author": "allenabraham777",
       "date": "08-05-2020",
       "image": "http://via.placeholder.com/150"
     },
     {
       "id": "D",
-      "heading": "D",
-      "author": "Allen K Abraham",
+      "title": "D",
+      "desc": "Here we will be having a one sentence description.",
+      "name": "Allen K Abraham",
+      "author": "allenabraham777",
       "date": "08-05-2020",
       "image": "http://via.placeholder.com/150"
     },
     {
       "id": "E",
-      "heading": "E",
-      "author": "Allen K Abraham",
+      "title": "E",
+      "desc": "Here we will be having a one sentence description.",
+      "name": "Allen K Abraham",
+      "author": "allenabraham777",
       "date": "08-05-2020",
       "image": "http://via.placeholder.com/150"
     }
