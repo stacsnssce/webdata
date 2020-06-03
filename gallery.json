@@ -1,61 +1,63 @@
-[
-  {
-    "title": "Lorem ipsum 1",
-    "images": [
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png"
-              ]
-  },
-  {
-    "title": "Lorem ipsum 2",
-    "images": [
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png"
-              ]
-  },
-  {
-    "title": "Lorem ipsum 3",
-    "images": [
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png",
-                "https://via.placeholder.com/400x300.png"
-              ]
-  }
-]
+{
+  "gallery": [
+    {
+      "title": "Lorem ipsum 1",
+      "images": [
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png"
+                ]
+    },
+    {
+      "title": "Lorem ipsum 2",
+      "images": [
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png"
+                ]
+    },
+    {
+      "title": "Lorem ipsum 3",
+      "images": [
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png",
+                  "https://via.placeholder.com/400x300.png"
+                ]
+    }
+  ]
+}
