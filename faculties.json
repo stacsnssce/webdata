@@ -1,8 +1,14 @@
 {
   "faculties": [
     {
-      "name": "Dr. Sindhu S",
+      "name": "Prof. Usha K",
       "designation": "Head of the Department",
+      "url": "https://nssce.etlab.in/uploads/images/staff/U-430860-iDkIv.jpg",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=33"
+    },
+    {
+      "name": "Dr. Sindhu S",
+      "designation": "Associate Professor",
       "url": "https://nssce.etlab.in/uploads/images/staff/U-430858-X7Tyf.jpg",
       "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=32"
     },
@@ -11,6 +17,60 @@
       "designation": "Assistant Professor",
       "url": "https://nssce.etlab.in/uploads/images/staff/U-KTU-F27261-kaOu3.JPG",
       "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=125"
+    },
+    {
+      "name": "Prof. Viji Rajendran V",
+      "designation": "Associate Professor",
+      "url": "https://nssce.etlab.in/uploads/images/staff/U-431060-THUsu.jpg",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=30"
+    },
+    {
+      "name": "Dr. Maya Mohan",
+      "designation": "Associate Professor",
+      "url": "https://nssce.etlab.in/uploads/images/staff/U-430864-GmseC.jpg",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=31"
+    },
+    {
+      "name": "Prof. Anuraj Mohan",
+      "designation": "Assistant Professor",
+      "url": "https://nssce.etlab.in/uploads/images/staff/U-659604-EfPO5.jpg",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=29"
+    },
+    {
+      "name": "Prof. Sruthy Manmadhan",
+      "designation": "Assistant Professor",
+      "url": "https://nssce.etlab.in/uploads/images/staff/727687-HvP8E.jpg",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=26"
+    },
+    {
+      "name": "Prof. Kiran V K",
+      "designation": "Assistant Professor",
+      "url": "https://nssce.etlab.in/uploads/images/staff/759641-CW9Bo.jpg",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=25"
+    },
+    {
+      "name": "Prof. Balagopal N",
+      "designation": "Assistant Professor",
+      "url": "https://nssce.etlab.in/uploads/images/staff/U-789722-9XKCh.JPG",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=27"
+    },
+    {
+      "name": "Prof. Chitra S Nair",
+      "designation": "Assistant Professor",
+      "url": "https://nssce.etlab.in/uploads/images/staff/KTU-F28887-QYeTa.jpg",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=124"
+    },
+    {
+      "name": "Prof. Remya G",
+      "designation": "Assistant Professor",
+      "url": "https://nssce.etlab.in/uploads/images/staff/U-KTU-F21401-8A2er.jpg",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=127"
+    },
+    {
+      "name": "Prof. Maanasa N A S",
+      "designation": "Assistant Professor",
+      "url": "https://nssce.etlab.in/uploads/images/staff/U-G2_CSE-NjyYo.jpg",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=262"
     }
   ]
 }
