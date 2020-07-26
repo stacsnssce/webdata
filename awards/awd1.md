@@ -1,6 +1,6 @@
 ---
 title: "Got selected for a weeklong visit to silicon valley by Kerala Start-up mission"
-cover: "https://via.placeholder.com/800x500.png"
+cover: "https://user-images.githubusercontent.com/34481775/88484420-04231300-cf8c-11ea-9489-891f06048477.png"
 ---
 31 Student startup founders from six states in India are selected for a week-long visit to Silicon valley to pitch, network and learn from the best companies in the world.
 
