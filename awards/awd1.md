@@ -1,6 +1,6 @@
 ---
 title: "Smart India Hackathon’17"
-cover: "https://user-images.githubusercontent.com/34481775/88485453-63d0ec80-cf93-11ea-8ff0-74ea5ba6acba.jpg"
+cover: "https://user-images.githubusercontent.com/34481775/88485532-1acd6800-cf94-11ea-8601-463f8ba4b4a2.JPG"
 ---
 
 ![sih 2017](https://user-images.githubusercontent.com/34481775/88485532-1acd6800-cf94-11ea-8601-463f8ba4b4a2.JPG)
