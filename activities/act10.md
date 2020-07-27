@@ -7,4 +7,4 @@ cover: "https://via.placeholder.com/800x500.png"
 
 A program was organized to award the semester toppers for the academic year 2017-18 who are in computer science department and to give away the special awards for the 2018 graduating batch of NSSCE. . Reshma S (YOP 2018) received the Best-Student award and Srikanth Vijay (YOP 2018)  received the Best-all round performer award.
 
-![](https://via.placeholder.com/150)
+![](https://user-images.githubusercontent.com/47708978/88577335-7830ea00-d064-11ea-88e9-801aceed044b.jpg)
