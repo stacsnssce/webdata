@@ -1,7 +1,7 @@
 ---
 date: ""
 title: "Workshop on C programming"
-cover: "https://via.placeholder.com/800x500.png"
+cover: "https://user-images.githubusercontent.com/47708978/88579230-5a18b900-d067-11ea-8c19-ba4aa96836d2.jpg"
 ---
 # Workshop on C programming
 

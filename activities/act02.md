@@ -1,7 +1,7 @@
 ---
 date: "22-10-2017"
 title: "Workshop on Android app development"
-cover: "https://user-images.githubusercontent.com/47708978/88571198-e1abfb00-d05a-11ea-9f39-eb77635d1e2d.jpg"
+cover: "https://user-images.githubusercontent.com/47708978/88579011-03ab7a80-d067-11ea-8e49-f5491a9d1bba.jpg"
 ---
 # Workshop on Android app development
 
