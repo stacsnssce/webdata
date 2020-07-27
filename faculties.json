@@ -13,12 +13,6 @@
       "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=32"
     },
     {
-      "name": "Prof. Syam Sankar",
-      "designation": "Assistant Professor",
-      "url": "https://nssce.etlab.in/uploads/images/staff/U-KTU-F27261-kaOu3.JPG",
-      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=125"
-    },
-    {
       "name": "Prof. Viji Rajendran V",
       "designation": "Associate Professor",
       "url": "https://nssce.etlab.in/uploads/images/staff/U-431060-THUsu.jpg",
@@ -53,6 +47,12 @@
       "designation": "Assistant Professor",
       "url": "https://nssce.etlab.in/uploads/images/staff/U-789722-9XKCh.JPG",
       "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=27"
+    },
+    {
+      "name": "Prof. Syam Sankar",
+      "designation": "Assistant Professor",
+      "url": "https://nssce.etlab.in/uploads/images/staff/U-KTU-F27261-kaOu3.JPG",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=125"
     },
     {
       "name": "Prof. Chitra S Nair",
