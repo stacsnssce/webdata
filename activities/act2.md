@@ -1,10 +1,10 @@
 ---
-date: "01-01-2020"
-title: "The Event 2"
-cover: "https://via.placeholder.com/800x500.png"
+date: "22-10-2017"
+title: "Workshop on Android app development"
+cover: "https://user-images.githubusercontent.com/47708978/88571198-e1abfb00-d05a-11ea-9f39-eb77635d1e2d.jpg"
 ---
-# Lorem ipsum dolar - Acticity 2
+# Workshop on Android app development
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A workshop on “Android App Development” conducted on 22nd October by Harikrishnan P Midhun, student lead for Developer Student Club in association with STACS. The workshop aimed to make an exposure for the students in the field of application development.
 
-![](https://via.placeholder.com/150)
+![](https://user-images.githubusercontent.com/47708978/88571198-e1abfb00-d05a-11ea-9f39-eb77635d1e2d.jpg)

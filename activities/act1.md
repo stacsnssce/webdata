@@ -1,10 +1,10 @@
 ---
-date: "01-01-2020"
-title: "The Event 1"
-cover: "https://via.placeholder.com/800x500.png"
+date: "10-10-2017"
+title: "STACS inauguration"
+cover: "https://user-images.githubusercontent.com/47708978/88570936-867a0880-d05a-11ea-9dba-a691420a95cd.jpg"
 ---
-# Lorem ipsum dolar - Acticity 1
+# STACS inauguration
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Dr. P Suresh Babu IAS (Hon’ble District Collector of Palakkad) inaugurated STACS (Students’ Association of Computer Science) on 10/10/17. Principal Dr. T Sudha delivered the presidential address. . Awards given to Pooja Anand for best outgoing student and to Reshma Raj for best all round performer.
 
-![](https://via.placeholder.com/150)
+![](https://user-images.githubusercontent.com/47708978/88570936-867a0880-d05a-11ea-9dba-a691420a95cd.jpg)
