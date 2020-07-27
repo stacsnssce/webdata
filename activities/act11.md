@@ -1,7 +1,7 @@
 ---
 date: "17-10-2019"
 title: "Avengers Assemble"
-cover: "https://via.placeholder.com/800x500.png"
+cover: "https://user-images.githubusercontent.com/47708978/88578424-2db06d00-d066-11ea-84e9-a3f2a976abd8.jpg"
 ---
 # Avengers Assemble
 
