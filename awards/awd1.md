@@ -4,7 +4,7 @@ cover: "https://raw.githubusercontent.com/stacsnssce/webdata/master/images/award
 ---
 31 Student startup founders from six states in India are selected for a week-long visit to Silicon valley to pitch, network and learn from the best companies in the world.
 
-![](https://raw.githubusercontent.com/stacsnssce/webdata/master/images/awards/silicon.png)
+![image](https://user-images.githubusercontent.com/34481775/88556139-4a3cad00-d046-11ea-860b-9672472e9b4f.png)
 
 Seven student captains for their entrepreneurship teams of CSE department of our college were selected by Kerala Start-up Mission to visit Silicon Valley.  The selected students were:
 - Hari Krishnan R (2013-17 Batch)  
