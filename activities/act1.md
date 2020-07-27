@@ -1,7 +1,7 @@
 ---
 date: "10-10-2017"
 title: "STACS inauguration"
-cover: "https://user-images.githubusercontent.com/47708978/88570936-867a0880-d05a-11ea-9dba-a691420a95cd.jpg"
+cover: "(https://user-images.githubusercontent.com/47708978/88575544-ae209f00-d061-11ea-8d41-98053cc5e1fb.jpg"
 ---
 # STACS inauguration
 
