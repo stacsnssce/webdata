@@ -15,24 +15,24 @@
     {
       "name": "Milind Soorya",
       "designation": "Chairman",
-      "url": "",
+      "url": "https://github.com/milindsoorya.png",
       "profiles": {
-                    "instagram": "",
+                    "instagram": "https://www.instagram.com/milindsoorya",
                     "twitter": "",
-                    "linkedin": "",
-                    "github": "",
+                    "linkedin": "https://www.linkedin.com/in/milindsoorya",
+                    "github": "https://github.com/milindsoorya",
                     "website": ""
                   }
     },
     {
       "name": "Meekha E Saji",
-      "url": "",
+      "url": "https://github.com/meekhasaji.png",
       "designation": "NewsletterEditor",
       "profiles": {
-                    "instagram": "",
+                    "instagram": "https://www.instagram.com/meekha_e_saji/",
                     "twitter": "",
-                    "linkedin": "",
-                    "github": "",
+                    "linkedin": "https://www.linkedin.com/in/meekha-e-saji-46059a12a",
+                    "github": "https://github.com/meekhasaji",
                     "website": ""
                   }
     },
@@ -46,6 +46,30 @@
                     "linkedin": "https://linkedin.com/in/allenabraham777",
                     "github": "https://github.com/allenabraham777",
                     "website": "https://allenabraham777.github.io"
+                  }
+    },
+    {
+      "name": "Vidhya T G",
+      "url": "https://github.com/Vidhya1999.png",
+      "designation": "Secretary",
+      "profiles": {
+                    "instagram": "https://www.instagram.com/a_possible_universe",
+                    "twitter": "",
+                    "linkedin": "https://www.linkedin.com/in/vidhya-gopalakrishnan-110195194/",
+                    "github": "https://github.com/Vidhya1999",
+                    "website": ""
+                  }
+    },
+    {
+      "name": "Adwaith Thirumeni",
+      "url": "https://user-images.githubusercontent.com/34481775/88503082-47ae6900-cfee-11ea-9446-e579469dc091.jpg",
+      "designation": "Treasurer",
+      "profiles": {
+                    "instagram": "https://www.instagram.com/thirumeni_jr",
+                    "twitter": "",
+                    "linkedin": "",
+                    "github": "",
+                    "website": ""
                   }
     }
   ]
