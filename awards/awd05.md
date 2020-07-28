@@ -5,11 +5,11 @@ cover: "https://user-images.githubusercontent.com/34481775/88615424-8821eb80-d0a
 
 ![tcs_best_2017_300x250](https://user-images.githubusercontent.com/34481775/88615285-3ed19c00-d0af-11ea-80cf-b8551cec6b82.png)
 
-**Project Title**: Automatic Text Summarization using Deep Learning
+Project Title: Automatic Text Summarization using Deep Learning
 
-**Project Guide**: Anuraj Mohan
+Project Guide: Anuraj Mohan
 
-**Project Team**: (2013-17 Batch)
+Project Team: (2013-17 Batch)
 
 1.  Arjun K
 
