@@ -1,19 +1,12 @@
 {
   "gallery": [
     {
-      "title": "Lorem ipsum 1",
+      "title": "Inauguration",
       "images": [
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png"
+                  "https://github.com/stacsnssce/webdata/blob/master/images/gallery/in1.png?raw=true",
+                  "https://github.com/stacsnssce/webdata/blob/master/images/gallery/in2.png?raw=true",
+                  "https://github.com/stacsnssce/webdata/blob/master/images/gallery/in3.png?raw=true",
+                  "https://github.com/stacsnssce/webdata/blob/master/images/gallery/in4.png?raw=true"
                 ]
     },
     {
