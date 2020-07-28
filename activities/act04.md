@@ -1,7 +1,7 @@
 ---
 date: "18-02-2018"
 title: "Solasta’ 18"
-cover: "https://user-images.githubusercontent.com/47708978/88579925-79fcac80-d068-11ea-80cb-9d9b1cdb25ed.jpg"
+cover: "https://user-images.githubusercontent.com/47708978/88655576-94786980-d0ec-11ea-9c08-c690813e8bfc.jpg"
 ---
 # Solasta’ 18
 

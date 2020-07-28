@@ -1,7 +1,7 @@
 ---
 date: "17-10-2019"
 title: "Felicitation Ceremony"
-cover: "https://user-images.githubusercontent.com/47708978/88640597-bcab9c80-d0db-11ea-9822-b107217d6c31.jpg"
+cover: "https://user-images.githubusercontent.com/47708978/88655124-f2f11800-d0eb-11ea-9308-240d6ed35e86.jpg"
 ---
 # Felicitation Ceremony
 

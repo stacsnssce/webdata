@@ -1,7 +1,7 @@
 ---
 date: "22-11-2018"
 title: "Game Development"
-cover: "https://user-images.githubusercontent.com/47708978/88640393-879f4a00-d0db-11ea-90f9-ec1f296dad14.jpg"
+cover: "https://user-images.githubusercontent.com/47708978/88654913-9f7eca00-d0eb-11ea-832c-7e71efe4ad5d.jpg"
 ---
 # Game Development
 
