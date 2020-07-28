@@ -1,10 +1,10 @@
 ---
-date: "30-12-2019"
-title: "Solasta’ 19"
-cover: "https://user-images.githubusercontent.com/47708978/88640686-dc42c500-d0db-11ea-9283-232b1896ce12.jpg"
+date: "17-10-2019"
+title: "Avengers Assemble"
+cover: "https://user-images.githubusercontent.com/47708978/88655202-0dc38c80-d0ec-11ea-845d-3ae2fda994d0.jpg"
 ---
-# Solasta’ 19
+# Avengers Assemble
 
-STACS conducted its major event, solasta’ 19 on 30th March 2019. It is great platform to exhibit and honour the technical and non-technical caliber of the students in NSSCE. The main events were Vaad Vivaadh (Debate) and Survivor (Treasure Hunt). The other events were Respawn (Gaming event), Clickathon (Online photography contest), Freeze (Mannequin Challenge), Sync ‘N Share (Tik Tok challenge), Memeception (Meme making contest) and Google Feud. The main focus being Debate and Survival.
+STACS conducted a quiz based on Marvel Cinematic Universe. Several students participated with huge excitement. It was a great opportunity for them to show their interest towards their favourite heroes. Nishanth and Vishnu P (Mechanical Engineering), Salman(mechanical Engineering) and Fadhil(Civil Engineering) became the winners.
 
-![](https://user-images.githubusercontent.com/47708978/88577440-a57d9800-d064-11ea-93fa-654439ee2e7a.jpg)
+![](https://user-images.githubusercontent.com/47708978/88658174-a65c0b80-d0f0-11ea-9f47-7d937750898c.jpg)
