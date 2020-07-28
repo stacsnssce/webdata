@@ -7,4 +7,4 @@ cover: "https://user-images.githubusercontent.com/47708978/88655202-0dc38c80-d0e
 
 STACS conducted a quiz based on Marvel Cinematic Universe. Several students participated with huge excitement. It was a great opportunity for them to show their interest towards their favourite heroes. Nishanth and Vishnu P (Mechanical Engineering), Salman(mechanical Engineering) and Fadhil(Civil Engineering) became the winners.
 
-![](https://user-images.githubusercontent.com/47708978/88577385-8ed74100-d064-11ea-9131-f3eaa685bf1b.jpg)
+![](https://user-images.githubusercontent.com/47708978/88658174-a65c0b80-d0f0-11ea-9f47-7d937750898c.jpg)
