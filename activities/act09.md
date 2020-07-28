@@ -1,7 +1,7 @@
 ---
 date: "16-02-2019"
 title: "Workshop on FOSS"
-cover: "https://via.placeholder.com/800x500.png"
+cover: "https://user-images.githubusercontent.com/47708978/88640481-a6054580-d0db-11ea-9cd7-28946040045a.jpg"
 ---
 # Workshop on FOSS
 

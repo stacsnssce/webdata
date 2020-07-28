@@ -1,7 +1,7 @@
 ---
 date: "04-09-2018"
 title: "Power of internship"
-cover: "https://via.placeholder.com/800x500.png"
+cover: "https://user-images.githubusercontent.com/47708978/88640258-5aeb3280-d0db-11ea-8bfc-5da858456941.jpg"
 ---
 # Power of internship
 

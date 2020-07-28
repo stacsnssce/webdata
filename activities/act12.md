@@ -1,7 +1,7 @@
 ---
 date: "30-12-2019"
 title: "Solasta’ 19"
-cover: "https://via.placeholder.com/800x500.png"
+cover: "https://user-images.githubusercontent.com/47708978/88640686-dc42c500-d0db-11ea-9283-232b1896ce12.jpg"
 ---
 # Solasta’ 19
 

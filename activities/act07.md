@@ -1,7 +1,7 @@
 ---
 date: "30-10-2018"
 title: "Mini Hackathon"
-cover: "https://via.placeholder.com/800x500.png"
+cover: "https://user-images.githubusercontent.com/47708978/88640335-75251080-d0db-11ea-97b5-6144d698470a.jpg"
 ---
 # Mini Hackathon
 

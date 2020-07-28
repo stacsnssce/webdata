@@ -1,7 +1,7 @@
 ---
 date: "18-07-2018"
 title: "Workshop on Blockchain"
-cover: "https://via.placeholder.com/800x500.png"
+cover: "https://user-images.githubusercontent.com/47708978/88640173-4444db80-d0db-11ea-8880-6bba61399daf.jpg"
 ---
 # Workshop on Blockchain
 
