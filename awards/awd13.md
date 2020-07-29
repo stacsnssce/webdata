@@ -1,6 +1,6 @@
 ---
 title: "Selected as the Top Contributor during GirlScript Summer of Code 2019"
-cover: "https://user-images.githubusercontent.com/34481775/88620408-983fc800-d0bb-11ea-8f67-85075dcfa518.png"
+cover: "https://raw.githubusercontent.com/stacsnssce/webassets/master/awards/GSSoC19_800x500.png"
 ---
 
 ![](https://github.com/Jaseemck.png?size=250)

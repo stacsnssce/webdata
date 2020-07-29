@@ -1,9 +1,9 @@
 ---
 title: "Best Outgoing Student and Best All-Round Performer Award 2018"
-cover: "https://user-images.githubusercontent.com/34481775/88617660-d1c10500-d0b4-11ea-984e-0af917ebcd57.png"
+cover: "https://raw.githubusercontent.com/stacsnssce/webassets/master/awards/felicitation_1_800x500.png"
 ---
 
-![felicitation_300x250](https://user-images.githubusercontent.com/34481775/88617347-0ed8c780-d0b4-11ea-8fc6-c7844b6acce5.png)
+![](https://raw.githubusercontent.com/stacsnssce/webassets/master/awards/felicitation_1_800x500.png)
 
 A program was organized to award the semester toppers for the academic year 2017-18 of the Department of Computer Science and to give away the special awards for the 2018 graduating batch of NSS College of Engineering.
 
