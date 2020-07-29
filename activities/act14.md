@@ -5,7 +5,7 @@ cover: "https://github.com/stacsnssce/webassets/blob/master/activities/abstracti
 ---
 # Launch of YouTube channel "The Abstraction"
 
-A YouTube channel was made by  in association with the Students Association of Computer Science - STACS, NSS College of Engineering. This was a great step during the time of lockdown. The videos were based on setting up development environment and basics of git.  
+A YouTube video was made by "The Abstraction" in association with the Students Association of Computer Science - STACS, NSS College of Engineering. This was a great step during the time of lockdown. Futher videos were based on setting up development environment and basics of git.  
 
 ![](https://github.com/stacsnssce/webassets/blob/master/activities/abstraction.png?raw=true)  
 
