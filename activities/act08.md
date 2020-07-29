@@ -1,7 +1,7 @@
 ---
 date: "22-11-2018"
 title: "Game Development"
-cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-2-Image-4.jpg?raw=true"
+cover: "https://user-images.githubusercontent.com/47708978/88654913-9f7eca00-d0eb-11ea-832c-7e71efe4ad5d.jpg"
 ---
 # Game Development
 

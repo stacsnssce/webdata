@@ -1,7 +1,7 @@
 ---
 date: "17-10-2019"
 title: "Felicitation Ceremony"
-cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-3-Image-6.jpg?raw=true"
+cover: "https://user-images.githubusercontent.com/47708978/88655124-f2f11800-d0eb-11ea-9308-240d6ed35e86.jpg"
 ---
 # Felicitation Ceremony
 

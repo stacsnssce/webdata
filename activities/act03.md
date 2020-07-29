@@ -1,7 +1,7 @@
 ---
 date: "16-01-2018"
 title: "Workshop on C programming"
-cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-5-Image-9.jpg?raw=true"
+cover: "https://user-images.githubusercontent.com/47708978/88655349-41061b80-d0ec-11ea-9e38-f472f14f3234.jpg"
 ---
 # Workshop on C programming
 

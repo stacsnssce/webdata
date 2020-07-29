@@ -1,7 +1,7 @@
 ---
 date: "17-10-2019"
 title: "Avengers Assemble"
-cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-4-Image-7.jpg?raw=true"
+cover: "https://user-images.githubusercontent.com/47708978/88655202-0dc38c80-d0ec-11ea-845d-3ae2fda994d0.jpg"
 ---
 # Avengers Assemble
 

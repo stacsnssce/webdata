@@ -1,7 +1,7 @@
 ---
 date: "30-10-2018"
 title: "Mini Hackathon"
-cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-2-Image-3.jpg?raw=true"
+cover: "https://user-images.githubusercontent.com/47708978/88654607-372fe880-d0eb-11ea-8698-b18ac6705038.jpg"
 ---
 # Mini Hackathon
 
