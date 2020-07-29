@@ -1,7 +1,7 @@
 ---
 date: "16-02-2019"
 title: "Workshop on FOSS"
-cover: "https://user-images.githubusercontent.com/47708978/88655041-ce953b80-d0eb-11ea-97e2-11359d8a031a.jpg"
+cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-3-Image-5.jpg?raw=true"
 ---
 # Workshop on FOSS
 
