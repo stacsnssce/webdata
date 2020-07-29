@@ -1,7 +1,7 @@
 ---
 date: "30-3-2019"
 title: "Solasta’ 19"
-cover: "https://user-images.githubusercontent.com/47708978/88655295-2d5ab500-d0ec-11ea-9812-f708abf000d9.jpg"
+cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-4-Image-8.jpg?raw=true"
 ---
 # Solasta’ 19
 
