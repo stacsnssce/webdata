@@ -1,7 +1,7 @@
 ---
 date: "22-10-2017"
 title: "Workshop on Android app development"
-cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-6-Image-13.jpg?raw=true"
+cover: "https://user-images.githubusercontent.com/47708978/88655661-af4ade00-d0ec-11ea-9201-aaa655929dae.jpg"
 ---
 # Workshop on Android app development
 
