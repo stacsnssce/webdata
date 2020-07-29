@@ -1,9 +1,9 @@
 ---
 title: "Smart India Hackathon’17"
-cover: "https://user-images.githubusercontent.com/34481775/88615808-434a8480-d0b0-11ea-93e8-f96a2c5c0a88.jpg"
+cover: "https://raw.githubusercontent.com/stacsnssce/webassets/master/awards/sih2017-home_800x500.jpg"
 ---
 
-![sih_2017_300x250](https://user-images.githubusercontent.com/34481775/88615709-21e99880-d0b0-11ea-9b37-b64778698325.jpg)
+![](https://raw.githubusercontent.com/stacsnssce/webassets/master/awards/sih_2017_300x250.jpg)
 
 
 Three teams from CSE department were selected for the grand finale of Smart India Hackathon’17

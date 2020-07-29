@@ -1,6 +1,6 @@
 ---
 title: "Gate 2019 Qualifiers"
-cover: "https://user-images.githubusercontent.com/34481775/88618065-cde1b280-d0b5-11ea-96e2-f89ea2057831.jpg"
+cover: "https://raw.githubusercontent.com/stacsnssce/webassets/master/awards/GATE_800x500.jpg"
 ---
 
 The year 2019 witnessed a great achievement, as around 17 students from the final year got cleared for the GATE 2019

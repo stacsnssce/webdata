@@ -1,9 +1,9 @@
 ---
 title: "Won 3rd Prize in quiz on IETE students day"
-cover: "https://user-images.githubusercontent.com/34481775/88616848-d1276f00-d0b2-11ea-8614-450769febf59.jpg"
+cover: "https://raw.githubusercontent.com/stacsnssce/webassets/master/awards/iete_800x600.jpg"
 ---
 
-![2_300x250](https://user-images.githubusercontent.com/34481775/88616793-b05f1980-d0b2-11ea-8671-c2c2f31730c1.png)
+![](https://raw.githubusercontent.com/stacsnssce/webassets/master/awards/2_300x250.png)
 
 The event was organized by IETE, Palakkad Chapter. A total of 4 students from CSE 2017-21 Batch participated in the quiz competition:
 1. Amala Peter

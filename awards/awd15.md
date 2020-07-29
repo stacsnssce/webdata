@@ -1,6 +1,6 @@
 ---
 title: "Contributed to Kaggle"
-cover: "https://user-images.githubusercontent.com/34481775/88621334-c45c4880-d0bd-11ea-9f46-9af80cd2836e.png"
+cover: "https://raw.githubusercontent.com/stacsnssce/webassets/master/awards/kaggle_800x500.png"
 ---
 
 ![](https://github.com/heysachin.png?size=300)

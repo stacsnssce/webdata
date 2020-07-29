@@ -1,9 +1,9 @@
 ---
 title: "Paper got selected for presentation in the IBICA 2018"
-cover: "https://user-images.githubusercontent.com/34481775/88619137-70029a00-d0b8-11ea-9dc1-48d15b955812.jpg"
+cover: "https://raw.githubusercontent.com/stacsnssce/webassets/master/awards/jithin_paper_presentation_1_800x500.jpg"
 ---
 
-![jithin_paper_presentation_300x250](https://user-images.githubusercontent.com/34481775/88619027-2f0a8580-d0b8-11ea-91e0-2f0804507d54.jpg)
+![](https://raw.githubusercontent.com/stacsnssce/webassets/master/awards/jithin_paper_presentation_1_800x500.jpg)
 
 **Jithin K C** (MTech, YOP:2019)  
 Project Title: “**ABC Algorithm for Optimizing Claytronic Operations**”  
