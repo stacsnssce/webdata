@@ -22,25 +22,62 @@
                 ]
     },
     {
-      "title": "Lorem ipsum 3",
+      "title": "Da Vinci Code AR Based Treasure Hunt",
       "images": [
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png",
-                  "https://via.placeholder.com/400x300.png"
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/DaVinciCode.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/DaVinciCode1.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/DaVinciCode2.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/DaVinciCode3.jpg"
+                ]
+    },
+    {
+      "title": "Solasta 19",
+      "images": [
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/s19.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/s19_2.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/s19_3.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/s19_4.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/s19_5.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/s19_6.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/s19_7.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/s19_1.jpg"
+                ]
+    },
+    {
+      "title": "Interview Session with Prasanth Nair IAS",
+      "images": [
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/talk_prasanth.jpg"
+                ]
+    },
+    {
+      "title": "Dyuksha 20",
+      "images": [
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/dyksha20.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/dyuksha20_2.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/dyuksha20_5.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/dyuksha20_6.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/dyuksha20_7.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/dyuksha20_1.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/dyuksha20_3.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/dyuksha20_4.jpg"
+                ]
+    },
+    {
+      "title": "FOSS Orientation",
+      "images": [
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/foss1.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/foss2.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/foss3.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/foss4.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/foss5.jpg"
+                ]
+    },
+    {
+      "title": "2016-20 Batch",
+      "images": [
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/miscellaneous.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/miscellanious.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/IV2016-20.jpg"
                 ]
     }
   ]
