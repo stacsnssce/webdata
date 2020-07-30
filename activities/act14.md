@@ -1,5 +1,5 @@
 ---
-date: "17-10-2019"
+date: "27-04-2020"
 title: "A small session on Development Environment"
 cover: "https://github.com/stacsnssce/webassets/blob/master/activities/abstraction.png?raw=true"
 ---
