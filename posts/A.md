@@ -2,7 +2,7 @@
 title: "TeamBery"
 desc: "Divided by Pandemic, United by TeamBery"
 name: "P Sharan"
-author: ""
+author: "sharan6422"
 date: "28-07-2020"
 image: "https://github.com/stacsnssce/webassets/blob/master/blogs/teambery.png?raw=true"
 tag: "dummy"
