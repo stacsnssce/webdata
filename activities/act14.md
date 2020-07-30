@@ -1,9 +1,9 @@
 ---
 date: "17-10-2019"
-title: "A short video on Development Environment"
+title: "A small session on Development Environment"
 cover: "https://github.com/stacsnssce/webassets/blob/master/activities/abstraction.png?raw=true"
 ---
-# A short video on Development Environment
+# A small session on Development Environment
 
 A YouTube video was made by "The Abstraction" in association with the Students Association of Computer Science - STACS, NSS College of Engineering. This was a great step during the time of lockdown. Futher videos were based on setting up development environment and basics of git.  
 
