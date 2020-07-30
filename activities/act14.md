@@ -1,6 +1,6 @@
 ---
 date: "17-10-2019"
-title: "Launch of YouTube channel The Abstraction"
+title: "A short video on Development Environment"
 cover: "https://github.com/stacsnssce/webassets/blob/master/activities/abstraction.png?raw=true"
 ---
 # A short video on Development Environment
