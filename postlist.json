@@ -18,32 +18,5 @@
       "date": "29-07-2020",
       "image": "https://github.com/stacsnssce/webassets/blob/master/blogs/rkh.jpg?raw=true"
     },
-    {
-      "id": "C",
-      "title": "C",
-      "desc": "Here we will be having a one sentence description.",
-      "name": "Allen K Abraham",
-      "author": "allenabraham777",
-      "date": "08-05-2020",
-      "image": "http://via.placeholder.com/150"
-    },
-    {
-      "id": "D",
-      "title": "D",
-      "desc": "Here we will be having a one sentence description.",
-      "name": "Allen K Abraham",
-      "author": "allenabraham777",
-      "date": "08-05-2020",
-      "image": "http://via.placeholder.com/150"
-    },
-    {
-      "id": "E",
-      "title": "E",
-      "desc": "Here we will be having a one sentence description.",
-      "name": "Allen K Abraham",
-      "author": "allenabraham777",
-      "date": "08-05-2020",
-      "image": "http://via.placeholder.com/150"
-    }
   ]
 }
