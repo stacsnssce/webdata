@@ -1,20 +1,19 @@
 ---
-title: "Lorem ipsum dolor"
-desc: "Here we will be having a one sentence description."
-name: "Allen K Abraham"
-author: "allenabraham777"
-date: "08-05-2020"
-image: "http://via.placeholder.com/150"
+title: "TeamBery"
+desc: "Divided by Pandemic, United by TeamBery"
+name: "P Sharan"
+author: ""
+date: "28-07-2020"
+image: "https://github.com/stacsnssce/webassets/blob/master/blogs/teambery.png?raw=true"
 tag: "dummy"
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et malesuada fames ac turpis egestas maecenas pharetra convallis posuere. Eros in cursus turpis massa tincidunt dui ut ornare. Sodales ut etiam sit amet nisl purus in mollis. Phasellus egestas tellus rutrum tellus pellentesque eu. Urna cursus eget nunc scelerisque viverra mauris in aliquam sem. Dolor purus non enim praesent elementum. Purus sit amet luctus venenatis lectus magna fringilla urna. Ullamcorper morbi tincidunt ornare massa eget egestas purus. Vulputate odio ut enim blandit volutpat maecenas.
+TeamBery is essentially a lockdown brainchild. Even though we always had this idea for a startup, the lockdown aided a lot in the implementation of the idea. Ours was a collective idea to provide web services at a nominal cost. We were searching for ideas even before lockdown but the sudden local technological revolution helped us in narrowing down the choices. We fiddled with the choices available and understood that doing web development services is the need of the hour. We are a team of six people Vyshnav Prasanth, Devidas K, Abdul Basith, Pranav K.S, Abhijith Krishna, and Sharan Parimalan.  
 
-![Image caption](https://image.freepik.com/free-vector/web-design-desk_23-2147503034.jpg)
 
-## Sub Lorem Ipsum
+![TeamBery](https://github.com/stacsnssce/webassets/blob/master/blogs/teambery.png?raw=true)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Et malesuada fames ac turpis egestas maecenas pharetra convallis posuere. Eros in cursus turpis massa tincidunt dui ut ornare. Sodales ut etiam sit amet nisl purus in mollis. Phasellus egestas tellus rutrum tellus pellentesque eu. Urna cursus eget nunc scelerisque viverra mauris in aliquam sem. Dolor purus non enim praesent elementum. Purus sit amet luctus venenatis lectus magna fringilla urna. Ullamcorper morbi tincidunt ornare massa eget egestas purus. Vulputate odio ut enim blandit volutpat maecenas.
 
-- Lorem
-- Lorem
-- Lorem
+Our first gig landed just before we were planning the official release of the website. The client was a friend and we were asked to design a website for his advertising company. We got regular feedback from the client and that helped us to make a website that catered all their needs. The first two works helped us in understanding the customer point of view and how we can provide services that meet their expectations.  
+On 11 June 2020, we officially released our website. We got huge support from our friends and teachers. Our initial investments were from our family, which helped in the proper realization of the startup. With works coming regularly, we can confidently say that we are headed in the right direction.
+
+
