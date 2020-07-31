@@ -1,5 +1,5 @@
 ---
-date: "30-3-2019"
+date: "30-03-2019"
 title: "Solasta’ 19"
 cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-4-Image-8.jpg?raw=true"
 ---

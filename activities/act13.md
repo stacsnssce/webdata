@@ -1,11 +1,11 @@
 ---
-date: "27-02-2020"
-title: "Hacker Day"
-cover: "https://github.com/stacsnssce/webassets/blob/master/activities/hackerday.jpeg?raw=true"
+date: "23-10-2019"
+title: "FOSS Blender Workshop"
+cover: "https://github.com/stacsnssce/webassets/blob/master/activities/blender.jpg?raw=true"
 ---
-# Hacker Day
+# FOSS Blender Workshop
 
-Hacker Day is an immersive hackathon where students with an interest in technology gather together to build a single project, a website for Hacker Space NSSCE.  
-Hacker Space club of NSSCE, with the students in CSE department, conducted an event on website building. Several students made their valuable contributions with the help of club members.
+A 2 hour session workshop on 3D Modeling With Blender was conducted on 23rd and 24th October ,2019 by the FOSS cell of NSSCE. The students were able to learn about 3D desiging from the scratch using blender tool.  
 
-![](https://github.com/stacsnssce/webassets/blob/master/activities/hackerday.jpeg?raw=true)
+
+![](https://github.com/stacsnssce/webassets/blob/master/activities/blender.jpg?raw=true)

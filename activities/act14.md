@@ -1,12 +1,12 @@
 ---
-date: "27-04-2020"
-title: "A small session on Development Environment"
-cover: "https://github.com/stacsnssce/webassets/blob/master/activities/abstraction.png?raw=true"
+date: "16-01-2020"
+title: "Interview Session with Prasanth Nair, IAS"
+cover: "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/talk_prasanth.jpg"
 ---
-# A small session on Development Environment
+# Interview Session with Prasanth Nair, IAS
 
-A YouTube video was made by "The Abstraction" in association with the Students Association of Computer Science - STACS, NSS College of Engineering. This was a great step during the time of lockdown. Futher videos were based on setting up development environment and basics of git.  
+In association with IIPC and STACS, we conducted an exclusive interview with Prasanth Nair, IAS. He is a law graduate and is well known for his innovative initiatives for poverty eradication and city administration in Kozhikode. The entire conversation was very interactive and jovial. The interview was handled by Meekha Saji(2016 adm). 
 
-![](https://github.com/stacsnssce/webassets/blob/master/activities/abstraction.png?raw=true)  
+![](https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/talk_prasanth.jpg)  
 
-[Watch Video](https://www.youtube.com/watch?v=Q7XnVypVr4Y)
+[Watch Video](https://youtu.be/O85EChVPV3A)
