@@ -1,10 +1,10 @@
 ---
-date: "17-10-2019"
-title: "Avengers Assemble"
-cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-4-Image-7.jpg?raw=true"
+date: "12-10-2019"
+title: "Participation in DevSprint"
+cover: "https://github.com/stacsnssce/webassets/blob/master/activities/pycon.jpg?raw=true"
 ---
-# Avengers Assemble
+# Participation in DevSprint
 
-STACS conducted a quiz based on Marvel Cinematic Universe. Several students participated with huge excitement. It was a great opportunity for them to show their interest towards their favourite heroes. Nishanth and Vishnu P (Mechanical Engineering), Salman(mechanical Engineering) and Fadhil(Civil Engineering) became the winners.
+Jaseem C K and Aswin Dinesh experienced the wonderful event "DevSprint", conducted by PyCon. It is a two days of intensive learning and development on an open source project of our choice, in a team environment
 
-![](https://github.com/stacsnssce/webassets/blob/master/activities/Page-4-Image-7.jpg?raw=true)
+![](https://github.com/stacsnssce/webassets/blob/master/activities/pycon.jpg?raw=true)

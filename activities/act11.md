@@ -1,10 +1,11 @@
 ---
-date: "30-03-2019"
-title: "Solasta’ 19"
-cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-4-Image-8.jpg?raw=true"
+date: "14-09-2019"
+title: "Participation in DevFest'19"
+cover: "https://github.com/stacsnssce/webassets/blob/master/activities/devfest.jpg?raw=true"
 ---
-# Solasta’ 19
+# Participation in DevFest'19
 
-STACS conducted its major event, solasta’ 19 on 30th March 2019. It is great platform to exhibit and honour the technical and non-technical caliber of the students in NSSCE. The main events were Vaad Vivaadh (Debate) and Survivor (Treasure Hunt). The other events were Respawn (Gaming event), Clickathon (Online photography contest), Freeze (Mannequin Challenge), Sync ‘N Share (Tik Tok challenge), Memeception (Meme making contest) and Google Feud. The main focus being Debate and Survival.
+Jaseem ck, Aswin Dinesh, Allen K Abraham, Sreelakshmi c and Meehka E Saji (2016 adm) particpated in GDG  DevFest'19 which was held on 14th September,  2019. It was a good platform to meet great minds and to gain latest tech knowledge  
 
-![](https://github.com/stacsnssce/webassets/blob/master/activities/Page-4-Image-8.jpg?raw=true)
+![](https://github.com/stacsnssce/webassets/blob/master/activities/devfest.jpg?raw=true)  
+

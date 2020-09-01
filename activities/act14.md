@@ -1,12 +1,10 @@
 ---
-date: "16-01-2020"
-title: "Interview Session with Prasanth Nair, IAS"
-cover: "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/talk_prasanth.jpg"
+date: "17-10-2019"
+title: "Avengers Assemble"
+cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-4-Image-7.jpg?raw=true"
 ---
-# Interview Session with Prasanth Nair, IAS
+# Avengers Assemble
 
-In association with IIPC and STACS, we conducted an exclusive interview with Prasanth Nair, IAS. He is a law graduate and is well known for his innovative initiatives for poverty eradication and city administration in Kozhikode. The entire conversation was very interactive and jovial. The interview was handled by Meekha Saji(2016 adm). 
+STACS conducted a quiz based on Marvel Cinematic Universe. Several students participated with huge excitement. It was a great opportunity for them to show their interest towards their favourite heroes. Nishanth and Vishnu P (Mechanical Engineering), Salman(mechanical Engineering) and Fadhil(Civil Engineering) became the winners.
 
-![](https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/talk_prasanth.jpg)  
-
-[Watch Video](https://youtu.be/O85EChVPV3A)
+![](https://github.com/stacsnssce/webassets/blob/master/activities/Page-4-Image-7.jpg?raw=true)

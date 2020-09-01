@@ -1,10 +1,11 @@
 ---
-date: "12-10-2019"
-title: "Participation in DevSprint"
-cover: "https://github.com/stacsnssce/webassets/blob/master/activities/pycon.jpg?raw=true"
+date: "27-02-2020"
+title: "Hacker Day"
+cover: "https://github.com/stacsnssce/webassets/blob/master/activities/hackerday.jpeg?raw=true"
 ---
-# Participation in DevSprint
+# Hacker Day
 
-Jaseem C K and Aswin Dinesh experienced the wonderful event "DevSprint", conducted by PyCon. It is a two days of intensive learning and development on an open source project of our choice, in a team environment
+Hacker Day is an immersive hackathon where students with an interest in technology gather together to build a single project, a website for Hacker Space NSSCE.  
+Hacker Space club of NSSCE, with the students in CSE department, conducted an event on website building. Several students made their valuable contributions with the help of club members.
 
-![](https://github.com/stacsnssce/webassets/blob/master/activities/pycon.jpg?raw=true)
+![](https://github.com/stacsnssce/webassets/blob/master/activities/hackerday.jpeg?raw=true)

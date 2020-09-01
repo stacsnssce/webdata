@@ -1,11 +1,10 @@
 ---
-date: "23-10-2019"
-title: "FOSS Blender Workshop"
-cover: "https://github.com/stacsnssce/webassets/blob/master/activities/blender.jpg?raw=true"
+date: "17-10-2019"
+title: "Felicitation Ceremony"
+cover: "https://github.com/stacsnssce/webassets/blob/master/activities/Page-3-Image-6.jpg?raw=true"
 ---
-# FOSS Blender Workshop
+# Felicitation Ceremony
 
-A 2 hour session workshop on 3D Modeling With Blender was conducted on 23rd and 24th October ,2019 by the FOSS cell of NSSCE. The students were able to learn about 3D designing from the scratch using blender tool.  
+A program was organized to award the semester toppers for the academic year 2017-18 who are in computer science department and to give away the special awards for the 2018 graduating batch of NSSCE. . Reshma S (YOP 2018) received the Best-Student award and Srikanth Vijay (YOP 2018)  received the Best-all round performer award.
 
-
-![](https://github.com/stacsnssce/webassets/blob/master/activities/blender.jpg?raw=true)
+![](https://github.com/stacsnssce/webassets/blob/master/activities/Page-3-Image-6.jpg?raw=true)
