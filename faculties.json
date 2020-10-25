@@ -1,16 +1,16 @@
 {
   "faculties": [
     {
-      "name": "Prof. Usha K",
-      "designation": "Head of the Department",
-      "url": "https://nssce.etlab.in/uploads/images/staff/U-430860-iDkIv.jpg",
-      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=33"
-    },
-    {
       "name": "Dr. Sindhu S",
-      "designation": "Associate Professor",
+      "designation": "Head of the Department",
       "url": "https://nssce.etlab.in/uploads/images/staff/U-430858-X7Tyf.jpg",
       "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=32"
+    },
+    {
+      "name": "Prof. Usha K",
+      "designation": "Associate Professor",
+      "url": "https://nssce.etlab.in/uploads/images/staff/U-430860-iDkIv.jpg",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=33"
     },
     {
       "name": "Prof. Viji Rajendran V",
