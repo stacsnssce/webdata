@@ -14,45 +14,9 @@
                   }
     },
     {
-      "name": "Milind Soorya",
-      "designation": "Chairman",
-      "url": "https://github.com/milindsoorya.png",
-      "profiles": {
-                    "instagram": "https://www.instagram.com/milindsoorya",
-                    "twitter": "",
-                    "linkedin": "https://www.linkedin.com/in/milindsoorya",
-                    "github": "https://github.com/milindsoorya",
-                    "website": ""
-                  }
-    },
-    {
-      "name": "Meekha E Saji",
-      "url": "https://github.com/meekhasaji.png",
-      "designation": "NewsletterEditor",
-      "profiles": {
-                    "instagram": "https://www.instagram.com/meekha_e_saji/",
-                    "twitter": "",
-                    "linkedin": "https://www.linkedin.com/in/meekha-e-saji-46059a12a",
-                    "github": "https://github.com/meekhasaji",
-                    "website": ""
-                  }
-    },
-    {
-      "name": "Allen K Abraham",
-      "url": "https://github.com/allenabraham777.png",
-      "designation": "Website Maintainer",
-      "profiles": {
-                    "instagram": "https://www.instagram.com/_allen_k_abraham_",
-                    "twitter": "https://twitter.com/allenabraham777",
-                    "linkedin": "https://linkedin.com/in/allenabraham777",
-                    "github": "https://github.com/allenabraham777",
-                    "website": "https://allenabraham777.github.io"
-                  }
-    },
-    {
       "name": "Vidhya T G",
+      "designation": "Chairperson",
       "url": "https://github.com/Vidhya1999.png",
-      "designation": "Secretary",
       "profiles": {
                     "instagram": "https://www.instagram.com/a_possible_universe",
                     "twitter": "",
@@ -62,11 +26,47 @@
                   }
     },
     {
-      "name": "Adwaith Thirumeni",
-      "url": "https://github.com/stacsnssce/webassets/blob/master/profiles/adwaith.jpg?raw=true",
+      "name": "Femi Shaju",
+      "url": "https://github.com/FEMI1602.png",
+      "designation": "Secretary",
+      "profiles": {
+                    "instagram": "",
+                    "twitter": "",
+                    "linkedin": "",
+                    "github": "https://github.com/FEMI1602",
+                    "website": ""
+                  }
+    },
+    {
+      "name": "Mohammed Arshu",
+      "url": "https://github.com/arshupt.png",
+      "designation": "Joint Secretary",
+      "profiles": {
+                    "instagram": "https://www.instagram.com/a_rshu_u/",
+                    "twitter": "",
+                    "linkedin": "https://www.linkedin.com/in/mohammed-arshu/",
+                    "github": "https://github.com/arshupt",
+                    "website": "http://arshu.me/"
+                  }
+    },
+    {
+      "name": "Abdul Basith",
+      "url": "",
       "designation": "Treasurer",
       "profiles": {
-                    "instagram": "https://www.instagram.com/thirumeni_jr",
+                    "instagram": "",
+                    "twitter": "",
+                    "linkedin": "",
+                    "github": "",
+                    "website": ""
+                  }
+    },
+    {
+      "name": "Ananthu S Krishnan",
+      "url": "",
+      "designation": "Joint Treasurer",
+      "profiles": {
+                    "instagram": "",
                     "twitter": "",
                     "linkedin": "",
                     "github": "",
