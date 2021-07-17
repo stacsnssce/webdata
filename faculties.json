@@ -1,8 +1,14 @@
 {
   "faculties": [
     {
-      "name": "Dr. Sindhu S",
+      "name": "Dr. Maya Mohan",
       "designation": "Head of the Department",
+      "url": "https://nssce.etlab.in/uploads/images/staff/U-430864-GmseC.jpg",
+      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=31"
+    },
+    {
+      "name": "Dr. Sindhu S",
+      "designation": "Professor",
       "url": "https://nssce.etlab.in/uploads/images/staff/U-430858-X7Tyf.jpg",
       "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=32"
     },
@@ -17,12 +23,6 @@
       "designation": "Associate Professor",
       "url": "https://nssce.etlab.in/uploads/images/staff/U-431060-THUsu.jpg",
       "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=30"
-    },
-    {
-      "name": "Dr. Maya Mohan",
-      "designation": "Associate Professor",
-      "url": "https://nssce.etlab.in/uploads/images/staff/U-430864-GmseC.jpg",
-      "profile": "http://nssce.ac.in/profile-faculty-view/ce.php?id=31"
     },
     {
       "name": "Prof. Anuraj Mohan",
