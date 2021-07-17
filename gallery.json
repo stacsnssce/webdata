@@ -79,6 +79,17 @@
                   "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/miscellanious.jpg",
                   "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/IV2016-20.jpg"
                 ]
+    },
+    {
+      "title": "Solasta 21",
+      "images": [
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/solasta21_codigo.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/solasta21_dozen_redemption.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/solasta21_playoffs.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/solasta21_webinar1.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/solasta21_webinar2.jpg",
+                  "https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/solasta21_wikihunt.jpg"
+                ]
     }
   ]
 }
