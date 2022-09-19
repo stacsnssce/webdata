@@ -24,8 +24,6 @@ A 24-hr long capture-the-flag competition which pushes the participants to the l
 
 ##### Creativa  
 
-![](https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/solasta21_playoffs.jpg)  
-
 A 2-hr long UI/UX competition which seeks for the creative minds of the participants. The event was conducted by STACS in the hopes of finding the best designer in the society. The participants were provided with the topic of the day by the co-ordinators.
 They were to create a user interface for the app related to the topic.
 
