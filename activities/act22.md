@@ -12,7 +12,7 @@ As we move towards a new normal, Solasta'22 was conducted completely offline ove
 
 ##### Web-Based Pentesting  
 
-![](https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/solasta21_wikihunt.jpg)
+![](https://raw.githubusercontent.com/stacsnssce/webassets/master/activities/webpentest.jpeg)
 
 A hands-on workshop, free of charge for the students. The event was conducted by the company, e-hackify hoping to instill the students’ enthusiasm towards cyber security. The event had around 50 participants come to the workshop with hopes of improving their knowledge on the topic. The event was successful in helping the students get the knowledge required, as they now have an adequate understanding on penetration methods, like SQL-Injection. 
 
@@ -31,21 +31,19 @@ They were to create a user interface for the app related to the topic.
 
 ##### Hoopla  
 A treasure hunt conducted by STACS to bring out the hunters in this fun-filled competition. The event consisted of 9 clues planted at various areas of the college. The participants were supposed to find the the clues and finsish all the tasks. The group that finishes the competition the quickest wins.
-![](https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/solasta21_webinar2.jpg)  
+![](https://raw.githubusercontent.com/stacsnssce/webassets/master/activities/Hoopla.jpg)  
 
 ##### Clutch  
 Two gaming competitions were conducted parallelly by STACS. The games were BGMI and FIFA Volta. The event was held to find the best gamer in the campus. 
-![](https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/solasta21_webinar1.jpg)  
+![](https://raw.githubusercontent.com/stacsnssce/webassets/master/activities/clutch.jpeg)  
 
 ##### Marvel-Era  
 
-![](https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/solasta21_dozen_redemption.jpg)  
+![](https://raw.githubusercontent.com/stacsnssce/webassets/master/activities/marvelera.jpeg)  
 
 A quiz competition was conducted STACS, providing the participants the opportunity to showcase their knowledge about the marvel universe. The quiz had 2 rounds with the first round being an eliminator and the other the competition in which the the winner was found.
 
 ##### Culturals 
-
-![](https://raw.githubusercontent.com/stacsnssce/webassets/master/gallery/solasta21_dozen_redemption.jpg)  
 
 An event for the students of the STACS to showcase their skills. The event was held in the college auditorium. The event was filled with a lot of beautiful songs and other festivities.
 
