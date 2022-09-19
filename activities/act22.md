@@ -30,12 +30,16 @@ A 2-hr long UI/UX competition which seeks for the creative minds of the particip
 They were to create a user interface for the app related to the topic.
 
 ##### Hoopla  
-A treasure hunt conducted by STACS to bring out the hunters in this fun-filled competition. The event consisted of 9 clues planted at various areas of the college. The participants were supposed to find the the clues and finsish all the tasks. The group that finishes the competition the quickest wins.
+
 ![](https://raw.githubusercontent.com/stacsnssce/webassets/master/activities/Hoopla.jpg)  
 
+A treasure hunt conducted by STACS to bring out the hunters in this fun-filled competition. The event consisted of 9 clues planted at various areas of the college. The participants were supposed to find the the clues and finsish all the tasks. The group that finishes the competition the quickest wins.
+
 ##### Clutch  
-Two gaming competitions were conducted parallelly by STACS. The games were BGMI and FIFA Volta. The event was held to find the best gamer in the campus. 
+
 ![](https://raw.githubusercontent.com/stacsnssce/webassets/master/activities/clutch.jpeg)  
+
+Two gaming competitions were conducted parallelly by STACS. The games were BGMI and FIFA Volta. The event was held to find the best gamer in the campus. 
 
 ##### Marvel-Era  
 
