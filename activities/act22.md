@@ -1,7 +1,7 @@
 ---
 date: "17-06-2022"
 title: "Solasta 22"
-cover: "https://raw.githubusercontent.com/stacsnssce/webassets/blob/master/activities/Solasta22.png"
+cover: "https://raw.githubusercontent.com/stacsnssce/webassets/master/activities/Solasta22.png"
 ---
 # Solasta 22
 
