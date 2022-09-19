@@ -8,7 +8,7 @@ cover: "https://raw.githubusercontent.com/stacsnssce/webassets/master/activities
 The Students' Association of Computer Science organized Solasta'22, a Technical Extravaganza, once again with a bunch of exhilarating episodes of hap on 17th, 18th and 19th  of June 2022.
 As we move towards a new normal, Solasta'22 was conducted completely offline over a span of 3 days starting from workshops and technical events to a full day of fun.
 
-![](https://raw.githubusercontent.com/stacsnssce/webassets/master/activities/act21_2.jpg)  
+![](https://raw.githubusercontent.com/stacsnssce/webassets/master/activities/solasta22schedule.jpeg)  
 
 ##### Web-Based Pentesting  
 
